@@ -1,11 +1,12 @@
 <h1 align="center">Herroo! Welcome to my profile :)</h1>
 ###### You can find me on other social media platforms!
+<br>
 <a href="https://www.linkedin.com/in/kelyn-wong"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/_kelynwong_/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a><a href="https://www.facebook.com/kelyn.wong.9"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a><a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg"><img width="51px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a><a href="https://twitter.com/_kelynwong_/"><img width="51px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 <br>
 If I were to summarise this whole readme file of myself it would be: 
 <br>
 TL;DR "<strong>Jack of all trades, master of none</strong><small>, but oftentimes better than a master of one.</small>"
-<br>
+<br><br>
 I'm a 19 year old student residing in Singapore. Currently I am schooling in Singapore Polytechnic on my final year graduating with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em>. I aspire to be a professional <mark>Software Engineer</mark> that utilizes emerging technology to <ins>develop complex software systems</ins> in order to reduce unnecessary human labor which ultimately improves the efficiency of processes and at the same time enhance the quality of lives.
 
 ## Background info & programming
@@ -149,6 +150,7 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 |Creativity|4.00|3.63|2.25 - 4.63|
 |Unconventionality|4.75|3.38|2.63 - 4.25|
 |Altruism|3.25|3.88|3.00 - 4.63|
+<br>
 <sup>*Take note that these personality results are obtained from websites such as https://www.16personalities.com/,  https://www.truity.com/, http://hexaco.org/, https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html in which they are all self-tests and therefore shouldn't be taken too seriously :D</sup>
 
 #### Things I do during my free time
