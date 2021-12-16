@@ -4,7 +4,10 @@
 <a href="https://www.linkedin.com/in/kelyn-wong"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/_kelynwong_/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a><a href="https://www.facebook.com/kelyn.wong.9"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a><a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg"><img width="51px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a><a href="https://twitter.com/_kelynwong_/"><img width="51px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 <br>
 ###### My website repository!
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io)
+<br>
+<br>
 If I were to summarise this whole readme file of myself it would be: 
 <br>
 TL;DR "<strong>Jack of all trades, master of none</strong><small>, but oftentimes better than a master of one.</small>"
