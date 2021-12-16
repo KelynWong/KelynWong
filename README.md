@@ -1,9 +1,9 @@
 <h1 align="center">Herroo! Welcome to my profile :)</h1>
 ###### You can find me on other social media platforms!
-<a href="https://www.linkedin.com/in/kelyn-wong"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/_kelynwong_/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a><a href="https://www.facebook.com/kelyn.wong.9"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a><a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg"><img width="51px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a><a href="https://twitter.com/_kelynwong_/"><img width="51px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
+<a href="https://www.linkedin.com/in/kelyn-wong"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/_kelynwong_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a><a href="https://www.facebook.com/kelyn.wong.9" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a><a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg" target="_blank"><img width="51px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a><a href="https://twitter.com/_kelynwong_/" target="_blank"><img width="51px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 <br>
 ###### My website repository!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io){:target="_blank"}
 <br>
 <br>
 If I were to summarise this whole readme file of myself it would be: 
@@ -28,8 +28,8 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 
 ### Technologies and programs I've dabbled in
 #### Github
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kelynwong&langs_count=10&layout=compact)](https://github.com/kelynwong/)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=dracula)](https://github.com/kelynwong/)
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kelynwong&langs_count=10&layout=compact)](https://github.com/kelynwong/){:target="_blank"}
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=dracula)](https://github.com/kelynwong/){:target="_blank"}
 
 #### Languages, database, frameworks
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=00b078)
@@ -101,12 +101,12 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 ~ ALBERT EINSTEIN
 ###### Enneagram (as of 2021)
 - 5w4 -> The Investigator 
-[A song by Sleeping At Last about the enneagram type 5](https://www.youtube.com/watch?v=wT6X87eTCUg)
+[A song by Sleeping At Last about the enneagram type 5](https://www.youtube.com/watch?v=wT6X87eTCUg){:target="_blank"}
 ###### RIASEC (as of 2021)
 - R/A I (Career interest)
-	- Possible occupations: [Musical Instrument Repairers and Tuners](https://www.onetonline.org/link/summary/49-9063.00)
+	- Possible occupations: [Musical Instrument Repairers and Tuners](https://www.onetonline.org/link/summary/49-9063.00){:target="_blank"}
 - R/A C (Skill confidence)
-	- Possible occupations: [Furniture Finishers](https://www.onetonline.org/link/summary/51-7021.00), [Sewers, Hand](https://www.onetonline.org/link/summary/51-6051.00), [Stone Cutters and Carvers, Manufacturing](https://www.onetonline.org/link/summary/51-9195.03), [Cooks, Private Household](https://www.onetonline.org/link/summary/35-2013.00)
+	- Possible occupations: [Furniture Finishers](https://www.onetonline.org/link/summary/51-7021.00){:target="_blank"}, [Sewers, Hand](https://www.onetonline.org/link/summary/51-6051.00){:target="_blank"}, [Stone Cutters and Carvers, Manufacturing](https://www.onetonline.org/link/summary/51-9195.03){:target="_blank"}, [Cooks, Private Household](https://www.onetonline.org/link/summary/35-2013.00){:target="_blank"}
 ###### DISC (as of 2021)
 - <strong>D</strong>ominance - 31%
 - <strong>I</strong>nfluence - 5%
@@ -154,7 +154,7 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 |Unconventionality|4.75|3.38|2.63 - 4.25|
 |Altruism|3.25|3.88|3.00 - 4.63|
 <br>
-<sup>*Take note that these personality results are obtained from websites such as https://www.16personalities.com/,  https://www.truity.com/, http://hexaco.org/, https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html in which they are all self-tests and therefore shouldn't be taken too seriously :D</sup>
+<sup>*Take note that these personality results are obtained from websites such as [MBTI](https://www.16personalities.com/){:target="_blank"}, [Enneagram, Big Five](https://www.truity.com/){:target="_blank"}, [DISC](https://www.123test.com/disc-personality-test/){:target="_blank"}, [HEXACO-PI-R](http://hexaco.org/){:target="_blank"}, [RIASEC](https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html){:target="_blank"} in which they are all self-tests and therefore shouldn't be taken too seriously :D</sup>
 
 #### Things I do during my free time
 - 🛠️ DIY mini projects 
@@ -202,7 +202,7 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 |3|I absolutely cannot live without music!! Music keeps me sane while programming 🥴|
 |4|Some of my bucket list items includes:<br>- Being a part of a band<br>- Learning the drums 🥁<br>- Visit antarctica<br>- Try an extreme sport (skydiving, bungee jump or mountain biking 🚵🏻‍♀️)<br>- Write a song 🎶|
 |5|Science is my best and favorite subject in school and because of that many of my friends thought that I would aspire to be a scientist 🧮|
-|6|😺 I have three bengal cats so you can definitely say that I am a cat person -> casually plugging my cat's instagram<img width="20px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> account <a href="https://www.instagram.com/_threedoseofcats_/">here</a>|
+|6|😺 I have three bengal cats so you can definitely say that I am a cat person -> casually plugging my cat's instagram<img width="20px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> account <a href="https://www.instagram.com/_threedoseofcats_/" target="_blank">here</a>|
 |7|The two areas of psychology that I am particularly interested in is behavioural and cognitive psychology|
 |8|Strange thing about me is that I am interested in humans in terms of observing and analysing them but not much interested in interacting with them 😅|
 |9|🎤 My top music artist goes to Billie Eilish Pirate Baird O'Connell|
