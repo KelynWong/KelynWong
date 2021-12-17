@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/kelyn-wong"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a><a href="https://www.instagram.com/_kelynwong_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a><a href="https://www.facebook.com/kelyn.wong.9" target="_blank"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a><a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg" target="_blank"><img width="51px" src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a><a href="https://twitter.com/_kelynwong_/" target="_blank"><img width="51px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 <br>
 ###### My website repository!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io){:target="_blank"}
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io)
 <br>
 <br>
 If I were to summarise this whole readme file of myself it would be: 
@@ -28,8 +28,8 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 
 ### Technologies and programs I've dabbled in
 #### Github
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kelynwong&langs_count=10&layout=compact)](https://github.com/kelynwong/){:target="_blank"}
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=dracula)](https://github.com/kelynwong/){:target="_blank"}
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kelynwong&langs_count=10&layout=compact)](https://github.com/kelynwong/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=dracula)](https://github.com/kelynwong/)
 
 #### Languages, database, frameworks
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=00b078)
@@ -100,13 +100,13 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 > The important thing is not to stop questioning. Curiosity has its own reason for existence. 
 ~ ALBERT EINSTEIN
 ###### Enneagram (as of 2021)
-- 5w4 -> The Investigator 
-[A song by Sleeping At Last about the enneagram type 5](https://www.youtube.com/watch?v=wT6X87eTCUg){:target="_blank"}
+- 5w4 -> The Investigator <br>
+[A song by Sleeping At Last about the enneagram type 5](https://www.youtube.com/watch?v=wT6X87eTCUg)
 ###### RIASEC (as of 2021)
 - R/A I (Career interest)
 	- Possible occupations: [Musical Instrument Repairers and Tuners](https://www.onetonline.org/link/summary/49-9063.00){:target="_blank"}
 - R/A C (Skill confidence)
-	- Possible occupations: [Furniture Finishers](https://www.onetonline.org/link/summary/51-7021.00){:target="_blank"}, [Sewers, Hand](https://www.onetonline.org/link/summary/51-6051.00){:target="_blank"}, [Stone Cutters and Carvers, Manufacturing](https://www.onetonline.org/link/summary/51-9195.03){:target="_blank"}, [Cooks, Private Household](https://www.onetonline.org/link/summary/35-2013.00){:target="_blank"}
+	- Possible occupations: [Furniture Finishers](https://www.onetonline.org/link/summary/51-7021.00), [Sewers, Hand](https://www.onetonline.org/link/summary/51-6051.00), [Stone Cutters and Carvers, Manufacturing](https://www.onetonline.org/link/summary/51-9195.03), [Cooks, Private Household](https://www.onetonline.org/link/summary/35-2013.00)
 ###### DISC (as of 2021)
 - <strong>D</strong>ominance - 31%
 - <strong>I</strong>nfluence - 5%
@@ -154,7 +154,7 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 |Unconventionality|4.75|3.38|2.63 - 4.25|
 |Altruism|3.25|3.88|3.00 - 4.63|
 <br>
-<sup>*Take note that these personality results are obtained from websites such as [MBTI](https://www.16personalities.com/){:target="_blank"}, [Enneagram, Big Five](https://www.truity.com/){:target="_blank"}, [DISC](https://www.123test.com/disc-personality-test/){:target="_blank"}, [HEXACO-PI-R](http://hexaco.org/){:target="_blank"}, [RIASEC](https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html){:target="_blank"} in which they are all self-tests and therefore shouldn't be taken too seriously :D</sup>
+<sup>*Take note that these personality results are obtained from websites such as [MBTI](https://www.16personalities.com/), [Enneagram, Big Five](https://www.truity.com/), [DISC](https://www.123test.com/disc-personality-test/), [HEXACO-PI-R](http://hexaco.org/), [RIASEC](https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html) in which they are all self-tests and therefore shouldn't be taken too seriously :D</sup>
 
 #### Things I do during my free time
 - 🛠️ DIY mini projects 
