@@ -16,14 +16,14 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 #### My education
 - 🏫 Beacon Primary School graduated with a <b>PSLE certificate</b> (2009-2015)
 - 🏫 Teck Whye Secondary School graduated with a <b>GCE O-Level certificate</b> (2015-2018)
-- 🏫 Singapore Polytechnic graduating with a <b>Diploma in Information Technology</b> (2019-2022)
+- 🏫 Singapore Polytechnic graduated with a <b>Diploma in Information Technology</b> (2019-2022)
+- 🏫 Singapore Management University graduating with a <b>Bachelor in Science (Software Engineering)</b> (2019-2022)
 
 #### My programming experience
-- 📅 Almost 3 years of experience
+- 📅 Almost 4 years of experience
 
 #### My career/education plans
-- 👣 Planning to apply for a Information Systems or Computer Science degree in either NUS or NTU after graduating from polytechnic
-- 👩🏻‍💻 Planning to apply for a job with the scope of Software Engineer after graduating from university (or apply for a job after polytechnic if I am not accepted into university 😬)
+- 👩🏻‍💻 Planning to apply for a job with the scope of Software Engineer after graduating from university
 <br>
 
 ### Technologies and programs I've dabbled in
