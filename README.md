@@ -17,7 +17,7 @@ I'm a 19 year old student residing in Singapore. Currently I am schooling in Sin
 - 🏫 Beacon Primary School graduated with a <b>PSLE certificate</b> (2009-2015)
 - 🏫 Teck Whye Secondary School graduated with a <b>GCE O-Level certificate</b> (2015-2018)
 - 🏫 Singapore Polytechnic graduated with a <b>Diploma in Information Technology</b> (2019-2022)
-- 🏫 Singapore Management University graduating with a <b>Bachelor in Science (Software Engineering)</b> (2019-2022)
+- 🏫 Singapore Management University graduating with a <b>Bachelor in Science (Software Engineering)</b> (2022-2026)
 
 #### My programming experience
 - 📅 Almost 4 years of experience
