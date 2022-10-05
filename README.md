@@ -25,7 +25,7 @@ I'm a 20 year old student residing in Singapore. Currently I am schooling in Sin
 #### My work experience
 - 💼 Freelance Web Application Developer (On and off during school holidays of 2020 & 2021)
 - 💼 Software Engineer Intern @ IoTeq Systems Pte Ltd (Mar 2021 - Aug 2021)
-- 💼 Freelance Software Developer (Mar 2022 - Present)
+- 💼 Freelance Software Developer (Mar 2022 - Aug 2022)
 
 #### My career/education plans
 - 👩🏻‍💻 Planning to apply for a job with the scope of Software Engineer after graduating from university
@@ -173,6 +173,7 @@ I'm a 20 year old student residing in Singapore. Currently I am schooling in Sin
 	- Juggling 🤹🏻‍♀️
 	- Keepy uppy ⚽
 	- Spin basketball on one finger 🏀
+	- Lock picking
 	- Card throwing 🃏 (currently learning)
 	- Dice stacking 🎲 (currently learning)
 - 📖 Reading 
