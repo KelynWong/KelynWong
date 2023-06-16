@@ -31,6 +31,7 @@ I'm a 21 year old student residing in Singapore. Currently I am schooling in Sin
 - 💼 Freelance Web Application Developer (On and off during school holidays of 2020 & 2021)
 - 💼 Software Engineer Intern @ IoTeq Systems Pte Ltd (Mar 2021 - Aug 2021)
 - 💼 Freelance Software Developer (Mar 2022 - Aug 2022)
+- 💼 Freelance Full Stack Developer (May 2023 - Aug 2023)
 
 #### My career/education plans
 - 👩🏻‍💻 Planning to apply for a job with the scope of Software Engineer after graduating from university
