@@ -15,7 +15,7 @@ If I were to summarise this whole readme file of myself it would be:
 <br>
 TL;DR "<strong>Jack of all trades, master of none</strong><small>, but oftentimes better than a master of one.</small>"
 <br><br>
-I'm a 20 year old student residing in Singapore. Currently I am schooling in Singapore Management University on my freshman year graduating with a <strong>Bachelor of Science (Software Engineering)</strong> and previously graduated with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em> from Singapore Polytechnic. I aspire to be a professional <mark>Software Engineer</mark> that utilizes emerging technology to <ins>develop complex software systems</ins> in order to reduce unnecessary human labor which ultimately improves the efficiency of processes and at the same time enhance the quality of lives.
+I'm a 21 year old student residing in Singapore. Currently I am schooling in Singapore Management University on my sophomore year graduating with a <strong>Bachelor of Science (Software Engineering)</strong> and previously graduated with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em> from Singapore Polytechnic. I aspire to be a professional <mark>Software Engineer</mark> that utilizes emerging technology to <ins>develop complex software systems</ins> in order to reduce unnecessary human labor which ultimately improves the efficiency of processes and at the same time enhance the quality of lives.
 
 ## Background info & programming
 #### My education
