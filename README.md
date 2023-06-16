@@ -1,17 +1,16 @@
 <h1 align="center">Herroo! Welcome to my profile :)</h1>
 
-## You can find me on other social media platforms!
+#### You can find me on other social media platforms!
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/kelyn-wong)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_kelynwong_/)
 [![Facebook](https://img.icons8.com/fluency/50/000000/facebook.png)](https://www.facebook.com/kelyn.wong.9)
 [![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter-squared.png)](https://twitter.com/_kelynwong_/)
 
-
-## My website repository!
+#### My website repository!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io)
 
-### A Summary
+## A Summary
 If I were to summarise this whole readme file of myself it would be: 
 <br>
 TL;DR "<strong>Jack of all trades, master of none</strong><small>, but oftentimes better than a master of one.</small>"
