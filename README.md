@@ -7,19 +7,19 @@
 
 <div align="center">
 	<a href="https://www.linkedin.com/in/kelyn-wong" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+		<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
 	<a href="https://www.instagram.com/_kelynwong_/" target="_blank">
-		<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+		<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/> 
 	</a>
 	<a href="https://www.facebook.com/kelyn.wong.9" target="_blank">
-		<img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+		<img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
 	</a>
 	<a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg" target="_blank">
-		<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> 
+		<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> 
 	</a>
 	<a href="https://twitter.com/_kelynwong_" target="_blank">
-		<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> 
+		<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> 
 	</a>
 </div>
 
@@ -27,10 +27,10 @@
 <div align="center">
 	<p>Visit my website by clicking on this button below</p>
 	<a href="https://kelynwong.github.io" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> 
+		<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> 
 	</a>
 	<p>or check out the repo by clicking on this card below</p>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io&theme=nord)](https://github.com/kelynwong/kelynwong.github.io" target="_blank">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io&theme=nord">
 </div>
 
 ## Summary
@@ -103,14 +103,21 @@ I am open to gaining more work experiences with roles such as <strong>software e
     <img src="https://skillicons.dev/icons?i=figma,sketchup,xd,autocad" />
 </p>
 
-## Github stats 
+## Github 
 <div align=center>
+<h5>My contributions</h5>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KelynWong/kelynwong/output/github-contribution-grid-snake-dark.svg" />
+<h5>My trophies</h5>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelynwong&theme=nord" alt="kelynwong" /></a>
+<h5>My stats</h5>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kelynwong&count_private=true&theme=nord&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=nord" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kelynwong&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<br>
+<br>
+<br>
 
 ## More about me!
 #### My personality (based on top tests used in psychology & by employers)
@@ -230,8 +237,8 @@ I am open to gaining more work experiences with roles such as <strong>software e
 
 <hr>
 <h3 align="center">You have finished scrolling my github page, if you liked it and would like to support me, buy me a coffee!</h3>
-<p>
-	<a href="https://ko-fi.com/kelynwong"> 
-		<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kelynwong" />
+<p align="center">
+	<a href="https://ko-fi.com/kelynwong" target="blank"> 
+		<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kelynwong" />
 	</a>
 </p>
