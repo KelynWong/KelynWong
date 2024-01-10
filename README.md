@@ -30,7 +30,9 @@
 		<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/> 
 	</a>
 	<p>or check out the repo by clicking on this card below</p>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io&theme=nord">
+	<a href="https://github.com/KelynWong/kelynwong.github.io" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io&theme=nord">
+	</a>
 </div>
 
 ## Summary
@@ -214,8 +216,8 @@ I am open to gaining more work experiences with roles such as <strong>software e
 	- Poetry
 - 🎵  Listening to music 
 	- Pop
-	- RnB
-	- Indie
+	- Alt Z
+	- pov: Indie
 - <img width="20px" src="https://user-images.githubusercontent.com/54231827/110572301-1b69e600-8194-11eb-88e5-c20d2e855794.png"/>   Watching youtube videos 
 	- Music videos
 	- Educational videos
