@@ -1,33 +1,67 @@
-<h1 align="center">Herroo! Welcome to my profile :)</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kelynwong&label=Profile%20views&color=0e75b6&style=flat" alt="kelynwong" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=FFFFFF&vCenter=true&width=500&height=70&duration=3000&lines=Herroo+there!+👋;+I'm+Kelyn+Wong!;" />
+</h1>
 
-#### You can find me on other social media platforms!
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/kelyn-wong)
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/_kelynwong_/)
-[![Facebook](https://img.icons8.com/fluency/50/000000/facebook.png)](https://www.facebook.com/kelyn.wong.9)
-[![YouTube](https://img.icons8.com/color/48/000000/youtube-squared.png)](https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg)
-[![Twitter](https://img.icons8.com/color/48/000000/twitter-squared.png)](https://twitter.com/_kelynwong_/)
+<h3 align="center">Connect with me on my socials :)</h3>
 
-#### My website repository!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io)](https://github.com/kelynwong/kelynwong.github.io)
+<div align="center">
+	<a href="https://www.linkedin.com/in/kelyn-wong" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+	</a>
+	<a href="https://www.instagram.com/_kelynwong_/" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+	</a>
+	<a href="https://www.facebook.com/kelyn.wong.9" target="_blank">
+		<img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+	</a>
+	<a href="https://www.youtube.com/channel/UCt2qzimSNTNBYWmmyYV49Tg" target="_blank">
+		<img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> 
+	</a>
+	<a href="https://twitter.com/_kelynwong_" target="_blank">
+		<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> 
+	</a>
+</div>
 
-## A Summary
-If I were to summarise this whole readme file of myself it would be: 
+<h4 align="center">You can also learn more about me through my website portfolio!</h4>
+<div align="center">
+	<p>Visit my website by clicking on this button below</p>
+	<a href="https://kelynwong.github.io" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> 
+	</a>
+	<p>or check out the repo by clicking on this card below</p>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelynwong&repo=kelynwong.github.io&theme=nord)](https://github.com/kelynwong/kelynwong.github.io" target="_blank">
+</div>
+
+## Summary
+<blockquote>
+	"<strong>Jack of all trades, master of none</strong><small>, but oftentimes better than a master of one.</small>"
+</blockquote>
 <br>
-TL;DR "<strong>Jack of all trades, master of none</strong><small>, but oftentimes better than a master of one.</small>"
-<br><br>
-I'm a 21 year old student residing in Singapore. Currently I am schooling in Singapore Management University on my sophomore year graduating with a <strong>Bachelor of Science (Software Engineering)</strong> and previously graduated with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em> from Singapore Polytechnic. I aspire to be a professional <mark>Software Engineer</mark> that utilizes emerging technology to <ins>develop complex software systems</ins> in order to reduce unnecessary human labor which ultimately improves the efficiency of processes and at the same time enhance the quality of lives.
+<p>
+I'm a 21 year old student residing in Singapore. Currently I am schooling in Singapore Management University on my sophomore year graduating with a <strong>Bachelor of Science (Software Engineering)</strong> and previously graduated with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em> from Singapore Polytechnic. 
+</p>
+<p>
+I aspire to be a professional <mark>Software Engineer</mark> that utilizes emerging technology to <ins>develop complex software systems</ins> in order to reduce unnecessary human labor ultimately improving the efficiency of processes and at the same time enhance the quality of lives. 
+</p>
+<p>
+I am open to gaining more work experiences with roles such as <strong>software engineering / frontend developer / backend developer / full-stack developer</strong>. If you have any work you are offering, you can contact me via gmail by clicking on the button below :)
+</p>
 
-## Background info & programming
+<div align="center">
+	<a href="mailto:kelynwonget@gmail.com">
+		<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+	</a>
+</div>
+
+## Education & Work Progression
 #### My education
 - 🏫 Beacon Primary School graduated with a <b>PSLE certificate</b> (2009-2015)
 - 🏫 Teck Whye Secondary School graduated with a <b>GCE O-Level certificate</b> (2015-2018)
 - 🏫 Singapore Polytechnic graduated with a <b>Diploma in Information Technology</b> (2019-2022)
 - 🏫 Singapore Management University graduating with a <b>Bachelor in Science (Software Engineering)</b> (2022-2026)
 
-#### My programming experience
-- 📅 Almost 4 years of experience
-
-#### My work experience
+#### My work experience (about 4 years in total 📅)
 - 💼 Freelance Web Application Developer (On and off during school holidays of 2020 & 2021)
 - 💼 Software Engineer Intern @ IoTeq Systems Pte Ltd (Mar 2021 - Aug 2021)
 - 💼 Freelance Software Developer (Mar 2022 - Aug 2022)
@@ -37,72 +71,46 @@ I'm a 21 year old student residing in Singapore. Currently I am schooling in Sin
 - 👩🏻‍💻 Planning to apply for a job with the scope of Software Engineer after graduating from university
 <br>
 
-### Technologies and programs I've dabbled in
-#### Github
-[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kelynwong&langs_count=10&layout=compact)](https://github.com/kelynwong/)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=dracula)](https://github.com/kelynwong/)
+## Skills
+###### Programming Languages
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,java" />
+</p>
 
-#### Languages, database, frameworks
-![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=00b078)
-![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=00b078)
-![](https://img.shields.io/badge/Framework-React%20Native-informational?style=flat&logo=react&logoColor=white&color=A86454)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=A86454)
-![](https://img.shields.io/badge/Framework-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=A86454)
-![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=cc00dd)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=cc00dd)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=cc00dd)
-![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=cc00dd)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00598c)
-![](https://img.shields.io/badge/Database-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=00598c)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=00598c)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=00598c)
-![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=00598c)
-![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=00598c)
-![](https://img.shields.io/badge/Cloud-AWS%20Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=F2E15A)
+###### Programming frameworks
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=express,nodejs,vue,jquery" />
+</p>
+
+###### Databases
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,firebase" />
+</p>
+
+###### Cloud services
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,heroku" />
+</p>
 
 #### Software programs used
 ###### Programming
-![](https://img.shields.io/badge/Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Android%20Studio-informational?style=flat&logo=android-studio&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/MySQL%20Workbench-informational?style=flat&logo=mysql&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/dbForge%20Studio%20for%20MySQL-informational?style=flat&logo=mysql&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Microsoft%20SQL%20Server%20Management%20Studio-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/dbForge%20Studio%20for%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Netbeans-informational?style=flat&logo=apache-netbeans-ide&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Eclipse%20Mosquitto-informational?style=flat&logo=eclipse-mosquitto&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Arduino-informational?style=flat&logo=Arduino&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Raspberry%20Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/FileZilla-informational?style=flat&logo=filezilla&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=heroku&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/NODE%20Red-informational?style=flat&logo=node-red&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/OWASP-informational?style=flat&logo=owasp&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/phpMyAdmin-informational?style=flat&logo=phpmyadmin&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/VMware%20Workstation-informational?style=flat&logo=vmware&logoColor=white&color=381e6e)
-![](https://img.shields.io/badge/Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=381e6e)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,eclipse,arduino,raspberrypi,vim" />
+</p>
 
 ###### Non-Programming
-![](https://img.shields.io/badge/Adobe%20XD-informational?style=flat&logo=adobe-xd&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Adobe%20Lightroom-informational?style=flat&logo=adobe-lightroom&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Adobe%20Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Draw.io-informational?style=flat&logo=diagrams.net&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/AutoCAD-informational?style=flat&logo=autodesk&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Autodesk%20Inventor-informational?style=flat&logo=autodesk&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Microsoft%20Word-informational?style=flat&logo=microsoft-word&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Microsoft%20Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/Microsoft%20Powerpoint-informational?style=flat&logo=microsoft-powerpoint&logoColor=white&color=bf004d)
-![](https://img.shields.io/badge/BandLab-informational?style=flat&logo=bandlab&logoColor=white&color=bf004d)
-<br>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=figma,sketchup,xd,autocad" />
+</p>
+
+## Github stats 
+<div align=center>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kelynwong&theme=nord" alt="kelynwong" /></a>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kelynwong&count_private=true&theme=nord&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kelynwong&show_icons=true&theme=nord" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kelynwong&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 ## More about me!
 #### My personality (based on top tests used in psychology & by employers)
@@ -219,3 +227,11 @@ I'm a 21 year old student residing in Singapore. Currently I am schooling in Sin
 |8|Strange thing about me is that I am interested in humans in terms of observing and analysing them but not much interested in interacting with them 😅|
 |9|🎤 My top music artist goes to Billie Eilish Pirate Baird O'Connell|
 |10|<b>MrBeast</b> (inspired me to become a philanthropist), <b>Mike Boyd</b> (inspired me to pick up skills like juggling, solving a rubik's cube etc), <b>Rob Czar</b> (inspired me to do DIY projects), <b>SmarterEveryDay</b> (inspired me to explore and learn something new everyday), <b>TheDooo</b> (inspired me to pick up musical instruments) & <b>Billie Eilish</b> (inspired me to sing and do song edits) and many more has been huge influences in my life|
+
+<hr>
+<h3 align="center">You have finished scrolling my github page, if you liked it and would like to support me, buy me a coffee!</h3>
+<p>
+	<a href="https://ko-fi.com/kelynwong"> 
+		<img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kelynwong" />
+	</a>
+</p>
