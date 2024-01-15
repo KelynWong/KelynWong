@@ -23,7 +23,7 @@
 	</a>
 </div>
 
-<h4 align="center">You can also learn more about me through my website portfolio!</h4>
+<h4 align="center">You can also learn more about me through my website portfolio! (currenly WIP for a revamp)</h4>
 <div align="center">
 	<p>Visit my website by clicking on this button below</p>
 	<a href="https://kelynwong.github.io" target="_blank">
