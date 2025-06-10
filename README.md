@@ -41,7 +41,7 @@
 </blockquote>
 <br>
 <p>
-I'm a 21 year old student residing in Singapore. Currently I am schooling in Singapore Management University on my sophomore year graduating with a <strong>Bachelor of Science (Software Engineering)</strong> and previously graduated with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em> from Singapore Polytechnic. 
+I'm a 23 year old student residing in Singapore. Currently I am schooling in Singapore Management University on my senior year graduating with a <strong>Bachelor of Science (Software Engineering)</strong> and previously graduated with a <strong>Diploma in Information Technology</strong> specializing in <em>Software Development</em> from Singapore Polytechnic. 
 </p>
 <p>
 I aspire to be a professional <mark>Software Engineer</mark> that utilizes emerging technology to <ins>develop complex software systems</ins> in order to reduce unnecessary human labor ultimately improving the efficiency of processes and at the same time enhance the quality of lives. 
@@ -68,6 +68,8 @@ I am open to gaining more work experiences with roles such as <strong>software e
 - 💼 Software Engineer Intern @ IoTeq Systems Pte Ltd (Mar 2021 - Aug 2021)
 - 💼 Freelance Software Developer (Mar 2022 - Aug 2022)
 - 💼 Freelance Full Stack Developer (May 2023 - Aug 2023)
+- 💼 Freelance Full Stack Developer (May 2024 - Aug 2024)
+- 💼 DevOps/Cloud/Software Engineer Intern @ Sembcorp Industries Ltd (May 2025 - June 2026)
 
 #### My career/education plans
 - 👩🏻‍💻 Planning to apply for a job with the scope of Software Engineer after graduating from university
@@ -91,7 +93,7 @@ I am open to gaining more work experiences with roles such as <strong>software e
 
 ###### Cloud services
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,heroku" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,heroku" />
 </p>
 
 #### Software programs used
